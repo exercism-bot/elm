@@ -89,6 +89,11 @@
       "uuid": "2f7f1b64-5ee5-4600-a81d-87a2c79815a5",
       "slug": "booleans",
       "name": "Booleans"
+    },
+    {
+      "uuid": "100cbb44-6ecd-4717-86bd-6b51b6f890a2",
+      "slug": "records",
+      "name": "Records"
     }
   ],
   "exercises": {
@@ -122,6 +127,18 @@
         "uuid": "9f501a73-14e3-4ada-8359-fe051530554a",
         "concepts": [
           "booleans"
+        ],
+        "prerequisites": [
+          "basics-2"
+        ],
+        "status": "beta"
+      },
+      {
+        "slug": "bandwagoner",
+        "name": "Bandwagoner",
+        "uuid": "af1cc0cd-b9f8-46ef-b4bf-7a5a17b1c8d6",
+        "concepts": [
+          "records"
         ],
         "prerequisites": [
           "basics-2"
